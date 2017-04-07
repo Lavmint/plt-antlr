@@ -1,0 +1,12 @@
+program
+var a,b,c:%; {integer}
+e,d:!; {float}
+f:$; {boolean}
+begin
+while (a < 0) do
+begin
+a ass b:
+a ass 2 + t:
+{g ass 0.01:}
+end;
+end.

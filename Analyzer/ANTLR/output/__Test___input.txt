@@ -1,0 +1,9 @@
+program
+var a,b,c:%;
+begin
+while (a < 0) do
+begin
+a ass 2:
+b ass 1E+2:
+end;
+end.
